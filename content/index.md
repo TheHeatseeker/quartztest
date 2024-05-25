@@ -1,6 +1,8 @@
 ---
 title: Welcome
 modified: 2024-05-26T01:11:26+06:00
+publish: true
+draft:
 ---
 # The other pages
 go see [[the other page]] to find more
