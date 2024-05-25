@@ -3,7 +3,7 @@ tags:
   - computers
 modified: 2024-05-26T03:19:58+06:00
 publish: true
-draft: true
+draft: false
 ---
 #cse
 this is the other page, with some properties [test note](test%20note.md)
