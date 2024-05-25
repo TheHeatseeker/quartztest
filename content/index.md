@@ -1,11 +1,12 @@
 ---
 title: Welcome to Quartz
-modified: 2024-05-24T11:25:57+06:00
+modified: 2024-05-26T00:23:21+06:00
 ---
 # The other pages
 go see [[the other page]] to find more
 
-<div id="disqus_thread"></div>
+<footer>
+<div id="disqus_thread"></div></footer>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
