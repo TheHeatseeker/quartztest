@@ -1,11 +1,12 @@
 ---
 tags:
   - computers
-modified: 2024-05-24T11:26:19+06:00
+modified: 2024-05-26T03:19:58+06:00
 publish: true
 draft: true
 ---
-this is the other page, with some properties
+#cse
+this is the other page, with some properties [test note](test%20note.md)
 
 <div id="disqus_thread" style="color-scheme: light"></div>
 <script>
