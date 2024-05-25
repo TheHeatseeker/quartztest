@@ -5,8 +5,8 @@ modified: 2024-05-26T00:23:21+06:00
 # The other pages
 go see [[the other page]] to find more
 
-<footer>
-<div id="disqus_thread"></div></footer>
+
+<div id="disqus_thread"></div>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
