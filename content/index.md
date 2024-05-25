@@ -1,12 +1,12 @@
 ---
 title: Welcome
-modified: 2024-05-26T00:23:21+06:00
+modified: 2024-05-26T01:11:26+06:00
 ---
 # The other pages
 go see [[the other page]] to find more
 
 
-<div id="disqus_thread"></div>
+<div id="disqus_thread" style="color-scheme: light"></div>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
