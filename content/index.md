@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome
 modified: 2024-05-26T00:23:21+06:00
 ---
 # The other pages
