@@ -4,7 +4,7 @@ tags:
 date: May 24 2024
 modified: 2024-05-24T14:07:46+06:00
 publish: true
-draft: true
+draft: false
 ---
 ![](Pasted%20image%2020240524135817.png) 
 this is a wikilink [[test note]] 
