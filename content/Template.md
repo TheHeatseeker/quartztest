@@ -4,3 +4,5 @@ publish: true
 draft: false
 ---
 #cse 
+
+[test note](test%20note.md) [the other page](the%20other%20page.md) 
