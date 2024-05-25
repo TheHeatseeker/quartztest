@@ -2,11 +2,14 @@
 time: Fri May 24, 2024 13:58
 tags: 
 date: May 24 2024
-modified: 2024-05-24T14:07:46+06:00
+modified: 2024-05-26T03:10:43+06:00
 publish: true
 draft: false
 ---
-![](Pasted%20image%2020240524135817.png) 
+###### Sample image
+![](img_2_1682771223661.jpg)
+ 
+
 this is a wikilink [[test note]] 
 
 this is a markdown [test note](test%20note.md) 

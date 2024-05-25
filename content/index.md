@@ -1,10 +1,10 @@
 ---
 title: Welcome
-modified: 2024-05-26T01:11:26+06:00
+modified: 2024-05-26T03:08:08+06:00
 publish: true
-draft:
+draft: 
 ---
-# The other pages
+## The other pages
 go see [[the other page]] to find more
 
 
