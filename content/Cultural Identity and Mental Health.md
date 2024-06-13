@@ -1,8 +1,12 @@
 ---
-modified: 2024-06-13T06:52:12+06:00
+modified: 2024-06-13T07:01:16+06:00
 publish: true
 draft: false
 ---
+![](pexels-jimmy-teoh-294331-951531.jpg)
+(Photo by jimmy teoh: https://www.pexels.com/photo/ancient-greek-temple-951531/)
+
+
 A strong cultural identity, or the lack thereof, has a subliminal but certain impact on mental health. This effect is only more prominent recently after the globalization of the nations of the world. This forces cultures that would otherwise never recognize each other to collide in what seems to be an instant, compared to the duration for which they have existed prior.
 
 No two cultures exist in tandem, they either 
@@ -20,9 +24,10 @@ And that change to the people en masse  is what deals a sustained, long lasting 
 
 Cultures dictate behaviors and values people have long put into things, and a shift of culture completely dissolves those value systems. It means what was long considered a morally incorrect behavior is now just a commonplace habit, or virtues of the past are now relics of antiquity in the new era.
 
-"Tradition is not the worship of ashes, but the preservation of fire," said Gustav Mahler. But what do we do when there is no fire, and the remembrance of ashes only seem to suffocate our lungs from the realization that there is no fire left to burn, that the ways of our forefathers have been on borrowed time?
+"Tradition is not the worship of ashes, but the preservation of fire," said Gustav Mahler. But what do we do when there is no fire, and the remembrance of ashes only seem to suffocate our lungs from the realization that there is no fire left burning, that the ways of our forefathers have been on borrowed time, and that time is over?
 
-**"But what good is the splendor of bygone banquets to a starving man? What good is the clinking of gold that a poor man hears through the wall of time?"**
-(Ernst Jünger, *Eumeswill*)
+> [!NOTE] Where is the fire?
+> **"But what good is the splendor of bygone banquets to a starving man? What good is the clinking of gold that a poor man hears through the wall of time?"**
+> (Ernst Jünger, *Eumeswill*)
 
 
