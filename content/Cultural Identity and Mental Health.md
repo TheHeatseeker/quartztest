@@ -20,7 +20,7 @@ However, any such significant change to culture means significant change to the 
 > "... what was long considered a morally incorrect behavior is now just a commonplace habit, or virtues of the past are now relics of antiquity in the new era."
 
 
-And that change to the people en masse  is what deals a sustained, long lasting impact on peoples mental health. 
+And that change to the people en masse  is what deals a sustained, long lasting impact on people's mental health. 
 
 Cultures dictate behaviors and values people have long put into things, and a shift of culture completely dissolves those value systems. It means what was long considered a morally incorrect behavior is now just a commonplace habit, or virtues of the past are now relics of antiquity in the new era.
 
