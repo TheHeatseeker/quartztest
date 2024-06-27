@@ -1,4 +1,4 @@
-https://docs.google.com/document/d/17Mxzi5yeAStB_7J7hZltssTUFOg3REr3tB__hBNSnSU/edit?usp=drivesdk
+
 
 # Quartz v4
 
